@@ -1,2 +1,0 @@
-# hamstersdnd
-Created with CodeSandbox
